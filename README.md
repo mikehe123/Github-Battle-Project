@@ -3,7 +3,7 @@
 Github-Battle is a React.js based web application that shows the top 30 popular github users by programming language. The sorting algorithm is based on the account followers and stars numbers.
 In addition, users can enter two github users to test which one is more popular than the others. 
 
-Github-Battle comes with Light and Dark theme. It utlizes code splitting with dynamic import for better web performant. The app is currently deployed on Netlify. 
+Github-Battle comes with Light and Dark theme. It utlizes code splitting with dynamic import for better web performant. The app is currently deployed on Netlify. (Credit to [Tyler McGinnis](https://github.com/tylermcginnis) for his amazing React courses)
 
 :film_projector: Github-Battle URL: https://github-battle-project.netlify.app
 
